@@ -1,9 +1,8 @@
-import './App.css';
-
-function App() {
+import PostList from "./PostList";
   return (
-    <div>hello</div>
+    <div>
+      <PostList/>
+    </div>
   );
-}
 
 export default App;
